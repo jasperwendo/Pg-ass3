@@ -1,0 +1,18 @@
+- Library management system that helps: manage books, users and borrowing records
+Requirement Analysis:
+	- Gather requirements from library staff and users
+	- Create a high-level flowchart and data structure
+	- Pseudocode and the actual C code
+	- Test with various scenarios { A test code to test all functionalities once }
+	- Deploy the system
+
+Requirements to implementation:
+	- Store book info: title(char), author(char), availability status(char)
+	- Store user info: userID(int), name(char), borrowed-books(int)
+	- Borrow and return books
+	- List all books and their statuses
+
+Findings on whats needed for the code implementation:
+	- import all the needed pre-defined header files
+	- define the structure of the library system
+	- 
