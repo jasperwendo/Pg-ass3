@@ -49,7 +49,7 @@ void addBook() {
 	printf("Enter book ISBN: \n");
 	scanf("%s", lib[bookCount].ISBN);
 
-	lib[bookCount].available = true;
+	lib[bookCount].available = 1;
 	bookCount++;
 }
 
